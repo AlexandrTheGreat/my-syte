@@ -1,13 +1,12 @@
 h1{
 	text-align: center;
-	font-size: 42px;
+font-size: 80px;
 }
 body{
-	background-color: red;
-	width:970px;
-	margin: 0 auto;
+	background-color: greenyellow;
 }
 p{
 	font-size: 30px
 }
+
 
